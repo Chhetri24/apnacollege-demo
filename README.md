@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first git repository
-author-saddha khapar
+this is my first git repository.
+<br>
+Author-saddha khapar
